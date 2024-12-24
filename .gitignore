@@ -1,0 +1,9 @@
+*.pt
+.classpath
+.project
+.settings/
+.vscode/
+*.pth
+*.bullx 
+*.sh
+.*/
