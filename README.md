@@ -1,5 +1,5 @@
 # EdgeEnhanced-DeepfakeDetection
-Universal AIGC Image Detection based on Edge Enhanced Generalizable Features
+$E^2$GenF: Universal AIGC Image Detection based on Edge Enhanced Generalizable Features
 ### TODO
 We are working hard on the following items.
 - [ ] Release [paper]
