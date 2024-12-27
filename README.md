@@ -2,7 +2,7 @@
 E<sup>2</sup>GenF: Universal AIGC Image Detection based on Edge Enhanced Generalizable Features
 ### TODO
 We are working hard on the following items.
-- [ ] Release [paper]
+- [ ] Release paper
 - [ ] Release inference scripts
 - [ ] Release checkpoints 
 - [x] Release datasets
